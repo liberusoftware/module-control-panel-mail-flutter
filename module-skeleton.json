@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-mail-flutter",
+  "capabilityKey": "liberusoftware/module-control-panel-mail",
+  "presentation": "mobile-flutter",
+  "package": "module_control_panel_mail_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/control-panel/nextjs/mail.md",
+  "presentationPlan": "projects/control-panel/flutter/mail.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
